@@ -26,6 +26,10 @@ Google Scholar: [link](https://scholar.google.com/citations?view_op=list_works&h
 - "Apparatus and method for providing surgical environment based on a virtual reality", US Patent
 - "Method for predicting paroxysmal atrial fibrillation in normal sinus rhythm electrocardiogram state by using deep learning", WO Patent [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020141807)
 
+### Challenges
+- MICCAI 2021 Endovis challenge
+  - HeiChole Surgical Workflow Analysis and Full Scene Segmentation (HeiSurF) [link](https://www.synapse.org/#!Synapse:syn25101790/wiki/608819)
+  - I participated to Semantic Segmentation task, and won the 1st place
 
 
 ### Contact me
