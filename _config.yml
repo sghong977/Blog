@@ -21,9 +21,9 @@ footer-links:
   email: sghong977@gmail.com
   facebook:
   flickr:
-  github: sghong977/Blog
+  github: sghong977
   instagram:
-  linkedin: https://www.linkedin.com/in/seulgi-hong-0b9a131a2
+  linkedin: seulgi-hong-0b9a131a2
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -37,7 +37,7 @@ footer-links:
 disqus: SeulGi Hong
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
