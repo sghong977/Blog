@@ -9,7 +9,7 @@ AI Research Engineer
 ## More Information
 
 ### Publications
-Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=0kh6CPgAAAAJ
+Google Scholar: [link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=0kh6CPgAAAAJ)
 
 **Papers**
 - "Why is the winner the best?", CVPR 2022
@@ -30,4 +30,5 @@ Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sghong977@gmail.com](mailto:sghong977@gmail.com)
+[seulgi_hong@outlook.com](mailto:seulgi_hong@outlook.com)
