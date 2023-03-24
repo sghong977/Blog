@@ -7,9 +7,9 @@ permalink: /about/
 AI Research Engineer
 
 ## More Information
+Google Scholar: [link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=0kh6CPgAAAAJ)
 
 ### Publications
-Google Scholar: [link](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=0kh6CPgAAAAJ)
 
 **Papers**
 - "Why is the winner the best?", CVPR 2022
@@ -23,7 +23,7 @@ Google Scholar: [link](https://scholar.google.com/citations?view_op=list_works&h
 - "What Is Wrong with Annotation? Quantifying the Annotation Quality via Noisy Label Learning", CKAIA 2020 (co-first)
 
 **Patents**
-- "Apparatus and method for providing surgical environment based on a virtual reality", US Patent
+- "Apparatus and method for providing surgical environment based on a virtual reality", US Patent [link](https://patents.google.com/patent/US20220273393A1/en)
 - "Method for predicting paroxysmal atrial fibrillation in normal sinus rhythm electrocardiogram state by using deep learning", WO Patent [link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020141807)
 
 ### Challenges
