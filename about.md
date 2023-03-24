@@ -35,4 +35,5 @@ Google Scholar: [link](https://scholar.google.com/citations?view_op=list_works&h
 ### Contact me
 
 [sghong977@gmail.com](mailto:sghong977@gmail.com)
+
 [seulgi_hong@outlook.com](mailto:seulgi_hong@outlook.com)
