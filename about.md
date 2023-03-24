@@ -10,6 +10,7 @@ AI Research Engineer
 
 ### Publications
 Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=0kh6CPgAAAAJ
+
 **Papers**
 - "Why is the winner the best?", CVPR 2022
 - "Amplifying action-context greater: image segmentation-guided intraoperative active bleeding detection", MICCAI Workshop 2022, CMBBE 2022 (first author)
